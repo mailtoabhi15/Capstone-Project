@@ -1,6 +1,6 @@
 # Capstone-Project
 #Project Submission
 
-This is your chance to take the skills that you've learned across your Nanodegree journey and apply it to an app idea of your own. You control the vision!
+This is our chance to take the skills that we've learned across our Nanodegree journey and apply it to an app idea of our own. 
 
-In Stage 1, you will design and plan your app, and receive feedback prior to building it in Stage 2.
+In Stage 1, we will design and planour app, and receive feedback prior to building it in Stage 2.
